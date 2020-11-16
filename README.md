@@ -1,4 +1,1 @@
-# demo
-xiaoming update
-xiaohong
-xiaogang update
+# littleA finished the function
